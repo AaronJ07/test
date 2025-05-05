@@ -7,3 +7,5 @@
 //Permitted without writer permission from the author //
 
 Always believe that something good is about to happen!
+
+test
